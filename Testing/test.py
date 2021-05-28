@@ -1,2 +1,3 @@
-print("""it was a dark and stormy night
-suddenly a shot rang out""")
+price = 3
+price += 1
+print("it costs " + str(price) + " dollars.")
